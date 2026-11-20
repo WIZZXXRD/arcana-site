@@ -1,0 +1,12 @@
+{
+  "name": "arcana-official-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The bilingual static website for Arcana by Wrong Wizard.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/preview.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}
